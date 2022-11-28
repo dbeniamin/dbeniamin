@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbeniamin
-- 👀 I’m interested in Python and Front end Development
-- 🌱 I’m currently learning Python and JS
+- 👀 I’m interested in QA, Python some JS
+- 🌱 I’m currently learning QA methods, Python, JS
 - 💞️ I’m looking to collaborate on any project available
 - 📫 You can email me on drimus.beni@gmail.com
 <!---
