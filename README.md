@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbeniamin
 - 👀 I’m interested in QA, Python.
 - 🌱 I’m in a continuous learning process for QA methods, Python.
-- 💞️ I’m looking to collaborate on available projects.
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 You can reach me at drimus.beni@gmail.com
 <!---
 dbeniamin/dbeniamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
