@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbeniamin
 - 👀 I’m interested in QA, Python.
-- 🌱 I’m in a continuous learning process for QA methods, Python.
+- 🌱 I’m in a continuous learning process for QA, Python and other related wizardry.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 You can contact me at drimus.beni@gmail.com
 
