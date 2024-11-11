@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 You can contact me at drimus.beni@gmail.com
 
-** Counter start date - June 2024 **  
+**Counter start date - June 2024**  
 ![](https://komarev.com/ghpvc/?username=dbeniamin&label=PROFILE+VIEWS)
 <!---
 dbeniamin/dbeniamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
